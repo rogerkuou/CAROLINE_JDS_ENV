@@ -22,4 +22,5 @@ dependencies:
  - zarr
  - pip:
    - dcachefs
+   - depsi
    
