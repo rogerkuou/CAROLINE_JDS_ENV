@@ -1,4 +1,4 @@
-name: jds_dev_template 
+name: jds_dev_template
 channels:
  - conda-forge
 dependencies:
